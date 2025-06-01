@@ -11,3 +11,7 @@
 **mapping.py**: Generated mapping of PKU -> MinorBench labels using Gemini
 
 **train_pku.py**: Training/finetuning BERT to classify harm
+
+**interpret.py**: Computing SHAP values and per-category threshold tuning
+
+**analyze_interpret.py**: Analyzing SHAP values
